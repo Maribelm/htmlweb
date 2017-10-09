@@ -24,8 +24,8 @@ de cada persona.</p>
 <li>Espalda</li>
 <li>Punto muerto</li>
 </ol>
-<img src="imagenes/crol.jfif">
-<img src="imagenes/braza.jfif">
+<img src="imagenes/crol.jfif" alt="esta imagen describe cómo hacer crol"/>
+<img src="imagenes/braza.jfif" alt="esta imagen describe cómo hacer braza"/>
 <h3>Mariposa</h3>
 <p>El movimiento mariposa es de los estilos más difíciles, ya que requiere mucha fuerza. Se deben juntar las piernas y moverlas como si fueran las aletas de un delfín,
 el cuerpo debe estar recto y los brazos estirarlos hacia arriba, es decir, fuera del agua y devolverlos a la posición original, la cual consiste en llevarlos delante
@@ -54,7 +54,6 @@ en crol</p>
 <td>Braza</td>
 <td>Punto muerto</td>
 </tr></table>
-
 
 
 </body>
